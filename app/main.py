@@ -38,7 +38,6 @@ def ask_question(request: QueryRequest):
 def ask_api(request: QueryRequest):
 
     try:
-        # 🔹 Mock API Response (Based on Assignment Screenshot)
         mock_api_response = {
             "Measure Details for 10.200.2.192 - MS Manager": {
                 "CPU utilization": {
