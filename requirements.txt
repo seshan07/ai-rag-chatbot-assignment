@@ -5,4 +5,4 @@ openai
 faiss-cpu
 pypdf
 python-dotenv
-tiktoken
+tiktoken 
