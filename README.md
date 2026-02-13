@@ -86,4 +86,4 @@ Response:
 
 {
   "answer": "The free space for the server 10.200.2.192 is 120 GB."
-}
+} 
